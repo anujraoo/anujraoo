@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rao__anuj" target="blank"><img src="https://img.shields.io/twitter/follow/rao__anuj?logo=twitter&style=for-the-badge" alt="rao__anuj" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m learning
 
 - 📫 How to reach me **anujrao2004@gmail.com**
 
